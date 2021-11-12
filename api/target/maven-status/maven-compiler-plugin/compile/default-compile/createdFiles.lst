@@ -1,0 +1,6 @@
+org/openmrs/module/danworkshop/SamplemoduledevelopedduringHIBootcampliveinAbujaActivator.class
+org/openmrs/module/danworkshop/api/SamplemoduledevelopedduringHIBootcampliveinAbujaService.class
+org/openmrs/module/danworkshop/api/dao/SamplemoduledevelopedduringHIBootcampliveinAbujaDao.class
+org/openmrs/module/danworkshop/SamplemoduledevelopedduringHIBootcampliveinAbujaConfig.class
+org/openmrs/module/danworkshop/Item.class
+org/openmrs/module/danworkshop/api/impl/SamplemoduledevelopedduringHIBootcampliveinAbujaServiceImpl.class
